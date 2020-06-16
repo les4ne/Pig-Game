@@ -2,7 +2,7 @@
 
 # Pig Game
 
-- I was making this game through the JavaScript course by Jonas Schmedtmann
+I was making this game through the JavaScript course by Jonas Schmedtmann
 
 ## Game Rules
 
